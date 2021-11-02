@@ -1,2 +1,4 @@
 Fichero palomo_alex
-Añado linea desde el repositorio local
+AÃ±ado linea desde el repositorio local
+
+klk mi locrio miguel mendez
